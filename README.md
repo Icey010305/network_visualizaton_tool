@@ -42,8 +42,10 @@ Dash is running on http://127.0.0.1:8050/
 
 ## Environment
 
-**Operating system**: Windows 10, macOS 14.5 
+**Operating system**: Windows 10, macOS 14.5  
+
 **Language**: Python 3.8 or higher 
+
 **Environment setting**: 
 
 Python environment should include the following libraries:
